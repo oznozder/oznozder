@@ -4,7 +4,7 @@
 - I completed my primary and secondary education in Istanbul and I completed my university education in Eskisehir "Anadolu University"Computer programming department.
 - In the Formpress open source form builder project for 1.5 year, l am working as a test engineer.
 - 👀 I'm interested in new technologies and finding bugs in any project <3.
-- 🌱 I’m currently learning Node.js and mysql.
+- 🌱 I’m currently learning Node.js,Javascript and T-sql.
 - 📫 How to reach me [...](https://www.linkedin.com/in/ozan-%C3%B6zder-oznozder/)
 
 
