@@ -5,6 +5,6 @@
 - In the Formpress open source form builder project for 1.5 year, l am working as a test engineer.
 - 👀 I'm interested in new technologies and finding bugs in any project <3.
 - 🌱 I’m currently learning Node.js,Javascript and T-sql.
-- 📫 How to reach me [...](https://www.linkedin.com/in/ozan-%C3%B6zder-oznozder/)
+- 📫 How to reach me [Click Here!!!]([https://www.linkedin.com/in/ozan-%C3%B6zder-oznozder/](https://www.linkedin.com/in/ozan-ozder/))
 
 
